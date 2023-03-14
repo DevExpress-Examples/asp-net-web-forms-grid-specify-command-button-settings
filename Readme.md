@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to specify built-in and Custom Command Buttons’ properties based on custom criteria
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3028/)**
+**[[Run Online]](https://codecentral.devexpress.com/128543079/)**
 <!-- run online end -->
 
 
